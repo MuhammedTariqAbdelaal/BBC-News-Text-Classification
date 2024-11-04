@@ -77,9 +77,6 @@ To train your model, you can use the train_model.py script. This script includes
 ### Steps:
 
 1. Modify the `bbc-text-classification.ipynb` file to include the path to your dataset.
-2. Run the script:
-     ```bash
-     python train_model.py
 
 ## Evaluation
 
