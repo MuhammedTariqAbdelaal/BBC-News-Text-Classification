@@ -19,6 +19,7 @@ This project implements a text classification system to categorize BBC news arti
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Created By](#created-by)
 
 ## Features
 
