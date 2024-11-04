@@ -1,7 +1,3 @@
-# BBC-News-Text-Classification
-A Text Classification model to categorize BBC news articles into predefined topics using natural language processing and machine learning techniques.
-
-
 # BBC News Text Classification
 
 ## Overview
@@ -105,3 +101,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - NLTK: For providing powerful tools for text processing.
 - Gradio: For enabling easy web interface creation.
 - The authors of the datasets used for this project.
+
+## Created By: 
+
+Muhammed Tariq Abdelaal Aboseif
