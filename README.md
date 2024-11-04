@@ -38,7 +38,7 @@ This project implements a text classification system to categorize BBC news arti
 
 ## Dataset
 
-The dataset used in this project consists of BBC news articles collected from the BBC website. Each article is labeled with one of five categories. You can find the dataset [here](https://www.bbc.co.uk/news/).
+The dataset used in this project consists of BBC news articles collected from the BBC website. Each article is labeled with one of five categories. You can find the dataset [here]([https://www.bbc.co.uk/news/](https://www.kaggle.com/datasets/alfathterry/bbc-full-text-document-classification)).
 
 ## Getting Started
 
